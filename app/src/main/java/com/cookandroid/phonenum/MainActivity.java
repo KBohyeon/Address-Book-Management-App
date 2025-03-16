@@ -174,7 +174,7 @@ public class MainActivity extends AppCompatActivity {
                     builder.withValue(ContactsContract.RawContacts.ACCOUNT_NAME, null);
                     operations.add(builder.build());
 
-                    // 연락처 이름 추가
+                    // 연락처 이름 추가.
                     builder = ContentProviderOperation.newInsert(ContactsContract.Data.CONTENT_URI);
                     builder.withValueBackReference(ContactsContract.Data.RAW_CONTACT_ID, rawContactInsertIndex);
                     builder.withValue(ContactsContract.Data.MIMETYPE, ContactsContract.CommonDataKinds.StructuredName.CONTENT_ITEM_TYPE);
