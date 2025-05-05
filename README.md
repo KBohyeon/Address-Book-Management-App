@@ -33,12 +33,12 @@ Food_Find의 주요 화면들을 아래에서 확인하실 수 있습니다.
 
 <table>
   <tr>
-    <td align="center"><b>🏠 메인 페이지</b></td>
-    <td align="center"><b>📱 모바일 페이지</b></td>
+    <td align="center"><b>🏠 어플 메인 화면</b></td>
+    <td align="center"><b>📱 저장후 주소록 화면</b></td>
   </tr>
   <tr>
-    <td><img src="./images/메인페이지.png" width="100%"></td>
-    <td><img src="./images/메인페이지 모바일.png" width="100%"></td>
+    <td><img src="./images/메인화면.png" width="100%"></td>
+    <td><img src="./images/저장후 화면.png" width="100%"></td>
   </tr>
   <tr>
     <td align="center"><b>📄 상세페이지1</b></td>
