@@ -29,23 +29,23 @@
 
 ## 🚩 실행 시 꼭 읽어주세요!
 1. **XAMPP 설치**
-   [XAMPP 공식 사이트](https://www.apachefriends.org/index.html)
+- [XAMPP 공식 사이트](https://www.apachefriends.org/index.html)
 
-2. **프로젝트 파일 복사**
-   php, html 파일을 `htdocs` 디렉터리에 복사합니다.
-   php, html 파일 이름을 보기 쉽게 바꿔주세요. ex) Book
+3. **프로젝트 파일 복사**
+- php, html 파일을 `htdocs` 디렉터리에 복사합니다.
+- php, html 파일 이름을 보기 쉽게 바꿔주세요.    ex)  C:/xampp/htdocs/phone
 
-3. **MySql 데이터베이스 설정**
+5. **MySql 데이터베이스 설정**
 - XAMPP Control Panel에서 Apache 실행 
 - 테이블을 미리 생성해주셔여 합니다.
 
 4. **사이트 접속**
-   upload.html에 접속해 파일을 업로드 합니다.
+- upload.html에 접속해 파일을 업로드 합니다.
 
 5. **주의 사항!!**
-  엑셀파일 .xlsx가 아닌 .csv로 확장자 명을 바꿔서 업로드 해야합니다.
-  .csv 변경시 전화번호가 깨질경우 사이트내에서 자동으로 바뀌게 했으니 무시하셔도 됩니다.
-  한글이 깨질시 메모장으로 열고 UTF-8로 변경해야합니다.
+- 엑셀파일 .xlsx가 아닌 .csv로 확장자 명을 바꿔서 업로드 해야합니다.
+- .csv 변경시 전화번호가 깨질경우 사이트내에서 자동으로 바뀌게 했으니 무시하셔도 됩니다.
+- 한글이 깨질시 메모장으로 열고 UTF-8로 변경해야합니다.
 ## 🌄 화면 미리보기
 
 Food_Find의 주요 화면들을 아래에서 확인하실 수 있습니다.
