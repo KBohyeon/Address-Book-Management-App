@@ -22,7 +22,7 @@
 |----------------|--------------------------|
 | 백엔드         | PHP                     |
 | 프론트엔드     | HTML                     |
-| 서버           | Xampp Apache            |
+| 서버           | Apache(XAPMM)            |
 | 데이터베이스    | MySQL                    |
 
 ---
@@ -38,32 +38,17 @@ Food_Find의 주요 화면들을 아래에서 확인하실 수 있습니다.
   </tr>
   <tr>
     <td><img src="./images/메인화면.png" width="100%"></td>
-    <td><img src="./images/저장후 화면.png" width="100%"></td>
+    <td><img src="./images/저장후 화면2.png" width="100%"></td>
   </tr>
   <tr>
-    <td align="center"><b>📄 상세페이지1</b></td>
+    <td align="center"><b>📄 저장 순서</b></td>
     <td align="center"><b>📄 상세페이지 지도</b></td>
   </tr>
   <tr>
-    <td><img src="./images/상세페이지1.png" width="100%"></td>
+    <td><img src="./images/저장 순서.png" width="100%"></td>
     <td><img src="./images/상세페이지 지도.png" width="100%"></td>
   </tr>
-  <tr>
-    <td align="center"><b>📄 상세페이지 식당 정보</b></td>
-    <td align="center"><b>📄 상세페이지 리뷰</b></td>
-  </tr>
-  <tr>
-    <td><img src="./images/상세페이지 식당 정보.png" width="100%"></td>
-    <td><img src="./images/상세페이지 리뷰.png" width="100%"></td>
-  </tr>
-    <tr>
-    <td align="center"><b>🔍 검색페이지</b></td>
-    <td align="center"><b>💾 DB</b></td>
-  </tr>
-  <tr>
-    <td><img src="./images/검색페이지.png" width="100%"></td>
-    <td><img src="./images/데이터베이스.png" width="100%"></td>
-  </tr>
+
 </table>
 
 ---
